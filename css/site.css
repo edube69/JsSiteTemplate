@@ -45,3 +45,19 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.bsicon{
+    color:purple;
+}
+
+.jsicon{
+    color:rgb(226,211,4);
+}
+
+.html5icon{
+    color:orangered;
+}
+
+.css3icon{
+    color:rgb(11.82.214)
+}
